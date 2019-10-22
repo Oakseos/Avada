@@ -1,0 +1,307 @@
+
+
+.sub_body { background: #37383a;
+			border-top: 15px solid #e9eaee; }
+.footer { background: #292a2c;
+		 }
+
+
+.header { overflow: hidden;
+		margin-top: 10px; 
+		}
+
+
+.header h1 { background: url(../images/Avada.png) no-repeat;
+	width: 156px;
+	height: 52px;
+	text-indent: -9999px;
+	float: left;
+	}
+
+nav { float: right;
+	margin-top: 20px;
+	
+	}
+
+nav li { display: inline;
+	margin: 10px;
+	font-size: 15px;
+	padding: 50px 0 10px 5px;
+	 }
+
+a { text-decoration: none; }
+
+.banner { background: #e6e6e6;
+		width: 100%;
+		height: 82px; 
+		margin-left: 0px;
+		;}
+
+
+
+/*----------------*/
+/*  mainbody     */
+/*----------------*/
+
+
+.main { 
+	margin-top: 45px;
+	 }
+
+
+.main h2  { color: #323232;
+			font-size: 20px;
+			margin-bottom: 15px;
+			}
+
+
+.main a { color: #9dcf4c;
+		text-decoration: underline;
+		 }
+
+.block	{  background: #f5f5f5`;
+			height: 100px;
+			width: -85%;
+			margin-right: 0px;
+			float: left;
+			margin-bottom: 40px;
+			margin-top: 15px;
+					 } 
+
+.box { height: 100px;
+	width: -15%;
+	float: right;
+	margin-left: 0px;
+	background: white;
+	margin-bottom: 40px;
+	margin-top: 15px;
+
+ }
+
+
+blockquote { margin-right: 0;
+			font-style: italic;
+			color: #010101;
+			padding-top: 20px;  
+			margin-right: 0;  
+		}
+
+
+
+
+/*----------------*/
+/*  Sub_body     */
+/*----------------*/
+
+
+.base_a h4 { background: url(../images/avada_2.jpg) no-repeat;
+				margin-bottom: 20px;
+				margin-top: 40px; 
+				text-indent: -9999px; }
+
+.base_a p 	{ font-style: italic;
+			font-size: 15px; 
+
+			    }
+
+.base_b h4, .base_c h4 , .base_d h4   { 
+					color: white; 	
+					margin: 40px 0 20px 5px;
+				text-transform: uppercase;
+				font-size: 12px;
+ 				
+			}
+
+.base_b a, .base_c a , .base_d a { border-bottom: 2px solid #2a2a2a;
+ 			margin-top: 10px;
+ 			padding-bottom: 10px; 
+ 			/* 
+ 			 
+ 			= divider
+ 			
+ 			 */
+ 			
+ 			
+ 			color: white;
+ 			text-decoration: none;
+ 			font-size: 12px;
+ 		}
+ 			 
+				
+
+
+
+ .base_c p { border-bottom: 2px solid #2a2a2a;
+ 					margin-top: 10px;
+ 			padding-bottom: 10px; 
+ 			text-decoration: none;
+ 			font-size: 14x;
+ 			font-style: italic;
+ 			color: white;
+ 			 }
+
+
+.base_d p { background: url(../images/02.jpg) no-repeat;
+			width: 223px;
+			height: 109px; 
+			text-indent: -9999px;
+			margin-left: 10px;}
+
+
+
+
+
+
+/*----------------*/
+/*  =Footer    */
+/*----------------*/
+
+
+
+
+
+.links { float: right; }
+.def { float: left;
+}
+
+
+.def li { display: inline;
+margin-left: 0px;}
+		
+
+.links li { display: inline; }
+
+
+
+
+
+
+
+/*--------------------------*/
+/*  = Index pages csssss    */
+/*--------------------------*/
+
+
+.pages_banner { background: url(../images/pages_banner.jpg) no-repeat; 
+	width: 100%;
+	height: 432px;
+	position: relative;
+	}
+
+.banner_A { margin-top: 80px;
+		position: absolute;
+		 }
+
+
+ .pages_banner h1 {  
+ 	font-size: 40px; 
+ 	width: 500px;
+	height: 35px;
+	padding-left: 22px;
+	letter-spacing: 2px;
+	line-height: 1em;
+	color: black;
+	
+  }
+
+  .pages_banner h2    { 
+  	width: 500px;
+	height: 35px;
+	padding-left: 22px;
+	padding-top: 25px;
+	letter-spacing: 1px;
+	color: #c2e27d;
+	font-size: 20px;
+}
+
+
+.pages_banner p { 
+	width: 430px;
+	height: 35px;
+	padding-left: 22px;
+ }
+
+
+.banner_button {  width: 204px;
+ 			height: 46px;
+ 			background: #b2da6a;
+ 			margin: 350px 0 0 22px;
+ 			 }
+
+ .banner_button h1 {  font-size: 15px;
+ 	padding:  15 0 0 45;
+
+
+ 			 }
+
+
+ /*----------------*/
+ /*  =pages Body    */
+ /*----------------*/
+.mainbody { margin: 50 0 80; }
+
+ .indexbody_A h2 { background: url(../images/Responsive_design.jpg) no-repeat;
+ 					width: 250px;
+ 					height: 39px;
+ 					text-indent: 50px;
+ 					padding-top: 7px;
+ 					font-size: 20px; }
+					
+ 			
+ 
+.indexbody_b h2 { background: url(../images/awes_slid.jpg) no-repeat;
+ 					width: 250px;
+ 					height: 39px;
+ 					text-indent: 50px;
+ 					font-size: 20px;
+ 					padding-top: 7px; }
+
+.indexbody_c h2 { background: url(../images/load_optn.jpg) no-repeat;
+ 					width: 250px;
+ 					height: 39px;
+ 					text-indent: 50px;
+ 					font-size: 20px;
+ 					padding-top: 7px; }
+
+
+ .indexbody_A a, .indexbody_b a, .indexbody_c a  { 
+		 	float: right;
+		 	 }
+
+.indexbody_A a:hover , .indexbody_b a:hover, .indexbody_c a:hover { color: #b2da6a; }
+
+
+
+
+.why_choose_us h2, .Client_say h2  { margin: 0 0 30 30;
+			font-family: cursive;
+			 } 
+
+.why_choose_us li { background:  url(../images/list_button.jpg) no-repeat;
+				list-style: none;
+				text-indent: 30px;
+				width: 400px;
+				height: 20px;
+				padding-top: 5px
+				 }
+
+.why_choose_us ul { 
+		margin-top: 0;
+		padding-left: 30px;}
+
+
+
+
+.Client_say blockquote { 
+		margin-top: 0;
+		padding: 50 10 0 15;
+		background: rgba(247, 243, 244, .5);
+		width: 450px;
+		height: 110px;
+		margin-left: 30;
+	}
+
+
+
+
+
